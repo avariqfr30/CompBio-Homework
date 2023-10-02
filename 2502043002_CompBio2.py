@@ -1,4 +1,4 @@
-# Answers for No. 1
+# Answers for No. 2
 # Define a dictionary to map amino acid codes to RNA codons
 amino_acid_to_rna = {
     'A': 'GCU', 'R': 'CGU', 'N': 'AAU', 'D': 'GAU',

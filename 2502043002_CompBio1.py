@@ -1,5 +1,3 @@
-#Number 1 and Number 2's answers are in this code combined
-
 # Define a dictionary that maps DNA codons to mRNA codons
 dna_to_mrna = {
     'A': 'U',
